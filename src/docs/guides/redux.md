@@ -10,3 +10,5 @@ contributors:
 # Redux
 
 TODO
+
+Guys, please, add here manual
